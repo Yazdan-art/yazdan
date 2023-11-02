@@ -20,4 +20,5 @@ letter=fruit[1]
 print(letter)
 print("\n")
 x=3
-print(fruit[x-3])
+print(fruit[x-8])
+print(len(fruit))
